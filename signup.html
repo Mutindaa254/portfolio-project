@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mutinda FamCare Agro - Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Mutinda FamCare Agro</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="signup.html">Sign Up</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="signup">
+            <div class="form-container">
+                <div class="form-switch">
+                    <span class="login-tab active" onclick="showLogin()">Login</span>
+                    <span class="signup-tab" onclick="showSignUp()">Sign Up</span>
+                </div>
+                <form id="login-form" class="active">
+                    <input type="email" placeholder="Email" required>
+                    <input type="password" placeholder="Password" required>
+                    <button type="submit">Login</button>
+                </form>
+                <form id="signup-form">
+                    <input type="text" placeholder="Name" required>
+                    <input type="email" placeholder="Email" required>
+                    <input type="password" placeholder="Password" required>
+                    <button type="submit">Sign Up</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-left">
+            <p>&copy; 2024 Mutinda FamCare Agro. All Rights Reserved.</p>
+            <p>PO Box 12345, Nairobi, Kenya</p>
+            <p>Phone: +254-123-456-789</p>
+            <p>Email: info@mutindafamcareagro.com</p>
+            <p>Website: www.mutindafamcareagro.com</p>
+        </div>
+        <div class="footer-right">
+            <p>Disclaimer: The information provided on this website is for general informational purposes only. All products are subject to availability and prices may change.</p>
+        </div>
+    </footer>
+
+ <script>
+        function showLogin() {
+            document.getElementById('login-form').classList.add('active');
+            document.getElementById('signup-form').classList.remove('active');
+            document.querySelector('.login-tab').classList.add('active');
+            document.querySelector('.signup-tab').classList.remove('active');
+        }
+
+        function showSignUp() {
+            document.getElementById('login-form').classList.remove('active');
+            document.getElementById('signup-form').classList.add('active');
+            document.querySelector('.login-tab').classList.remove('active');
+            document.querySelector('.signup-tab').classList.add('active');
+        }
+    </script>
+</body>
+</html>
