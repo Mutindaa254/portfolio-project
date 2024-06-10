@@ -96,14 +96,6 @@ Achieved a clean, consistent layout that maintains the aesthetic integrity of th
 - **Real-Time Stock Updates:** Integrate live stock updates to inform users of product availability.
 - **Customer Reviews:** Allow users to leave reviews and ratings for products.
 
-## 👤 About Me
-I am Mutinda, a dedicated web developer passionate about leveraging technology to solve real-world problems. This project reflects my commitment to improving the agricultural sector through innovative solutions.
-
-### 🔗 Connect with Me
-- **GitHub:** [MutindaFamCareAgro]([https://github.com/yourusername/MutindaFamCareAgro](https://github.com/Mutindaa254/portfolio-project))
-- **Deployed Project:** [Mutinda FamCare Agro](http://yourdeployedprojecturl.com)
-- **Project Landing Page:** [Mutinda FamCare Agro]([http://yourlandingpageurl.com](https://mutindaa254.github.io/Landing-page/))
-- **LinkedIn:** [Moses Mutinda]([http://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/update/urn:li:activity:7204757204082634752/)) 
 
 ---
 
