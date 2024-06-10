@@ -1,5 +1,3 @@
-Sure! Here's an attractive and detailed GitHub README file for the Mutinda FamCare Agro project:
-
 ---
 
 # 🌾 Mutinda FamCare Agro
