@@ -107,8 +107,3 @@ I am Mutinda, a dedicated web developer passionate about leveraging technology t
 
 ---
 
-Feel free to customize this README further to better match your project's specifics and to add any additional information or sections you find relevant.
-  * [103-keygen.c](./103-keygen.c): C function that generates passwords for the
-  [crackme5](https://github.com/holbertonschool/0x16.c) executable.
-  * Usage of the crackme: `./crackme5 username key`
-  * Usage of the keygen: `./keygen5 username`
