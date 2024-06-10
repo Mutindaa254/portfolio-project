@@ -11,7 +11,7 @@ Mutinda FamCare Agro is an innovative online platform designed to streamline the
 The primary goal of this project is to create a user-friendly, responsive web application where farmers and agricultural suppliers can effortlessly browse, select, and purchase a wide range of animal feeds.
 
 ### 👥 Team Members and Roles
-- **John Mutinda** - Full Stack Developer
+- **Moses Mutinda** - Full Stack Developer
 
 ### 📅 Timeline
 - **Development Period:** 3 months
@@ -100,10 +100,10 @@ Achieved a clean, consistent layout that maintains the aesthetic integrity of th
 I am Mutinda, a dedicated web developer passionate about leveraging technology to solve real-world problems. This project reflects my commitment to improving the agricultural sector through innovative solutions.
 
 ### 🔗 Connect with Me
-- **GitHub:** [MutindaFamCareAgro](https://github.com/yourusername/MutindaFamCareAgro)
+- **GitHub:** [MutindaFamCareAgro]([https://github.com/yourusername/MutindaFamCareAgro](https://github.com/Mutindaa254/portfolio-project))
 - **Deployed Project:** [Mutinda FamCare Agro](http://yourdeployedprojecturl.com)
-- **Project Landing Page:** [Mutinda FamCare Agro](http://yourlandingpageurl.com)
-- **LinkedIn:** [John Mutinda](http://linkedin.com/in/yourprofile)
+- **Project Landing Page:** [Mutinda FamCare Agro]([http://yourlandingpageurl.com](https://mutindaa254.github.io/Landing-page/))
+- **LinkedIn:** [Moses Mutinda]([http://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/update/urn:li:activity:7204757204082634752/)) 
 
 ---
 
